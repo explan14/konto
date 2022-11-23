@@ -1,4 +1,4 @@
-"das ist mein main klasse was ich imoprtet habe ist os für die files zu lesen , timeit für das ich ein loop machen wenn ich es f
+"das ist mein main klasse was ich imoprtet habe ist os für die files zu lesen , dann hab ich mein konto_module importiert
 
 
 
