@@ -1,0 +1,17 @@
+BTC = 
+
+ETH = 
+
+Tether = 
+
+USD Coin = 
+
+BNB = 
+
+Cardano =
+
+Solana = 
+
+Dogecoin =
+
+Polkadot = 
