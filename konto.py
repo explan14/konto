@@ -1,3 +1,7 @@
+"das ist mein main klasse was ich imoprtet habe ist os für die files zu lesen , timeit für das ich ein loop machen wenn ich es f
+
+
+
 from os import read
 from timeit import repeat
 import konto_module as rasa
